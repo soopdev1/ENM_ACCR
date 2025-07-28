@@ -291,7 +291,6 @@
     </head>
     <!-- END HEAD -->
     <body class="page-full-width page-header-fixed page-content-white">
-                        <%@ include file="menu/header.jsp"%>
 
         <%@include file="Bootstrap2024/index/index_SoggettoAttuatore/Header_soggettoAttuatore.jsp" %>
         <nav class="navbar navbar-expand-lg has-megamenu" aria-label="Menu principale">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
-    <display-name>ENM_TOSCANA_Accreditamento</display-name>
+    <display-name>ENM_2025_ACCR</display-name>
     <distributable/>
     <listener>
         <listener-class>rc.soop.servlet.HttpSessionCollector</listener-class>

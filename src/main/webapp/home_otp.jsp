@@ -62,7 +62,7 @@
                 <hr>
 
                 <div class="text-center">
-                    <span class="bold text-center text-primary center-block h3">YES I STARTUP TOSCANA <br>CONFERMA REGISTRAZIONE</span>
+                    <span class="bold text-center text-primary center-block h3">YES I STARTUP <br>CONFERMA REGISTRAZIONE</span>
                         <%if (Constant.test) {%>
                     <br>
                     <span class="bold text-center text-primary center-block"><img src="assets/soop/img/beta.png" alt="" height="100"/></span>

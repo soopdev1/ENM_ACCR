@@ -158,7 +158,7 @@
                 <div id="widget">
                     <hr>
                     <div class="text-center mb-4">
-                        <span class="font-weight-bold text-primary h3">YES I STARTUP TOSCANA</span>
+                        <span class="font-weight-bold text-primary h3">YES I STARTUP </span>
                         <%if (Constant.test) {%>
                         <br>
                         <span class="font-weight-bold text-primary"><img src="assets/soop/img/beta.png" alt="" height="100"/></span>
